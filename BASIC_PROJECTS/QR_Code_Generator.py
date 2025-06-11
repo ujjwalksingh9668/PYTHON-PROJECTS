@@ -1,5 +1,5 @@
 # generate any qr code using python...
-
+    
 #Solution:-
 import qrcode
 
