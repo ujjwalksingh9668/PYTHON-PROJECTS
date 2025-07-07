@@ -56,3 +56,4 @@ for j in range(4):
         suit_name = "Heart"
 
     print(face + " of " + suit_name)
+    print("let's the game begins...")
