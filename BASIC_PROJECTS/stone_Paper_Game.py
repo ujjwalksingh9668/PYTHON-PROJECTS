@@ -22,6 +22,3 @@ else:
     print("you lost")
 
 print("thank you for playing")
-
-
-
